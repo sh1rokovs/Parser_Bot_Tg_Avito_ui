@@ -109,5 +109,3 @@ class AvitoParser:
 
 #p = AvitoParser()
 #p.get_blocks(200, 104, 'nizhniy_novgorod', 1, 0, 1)
-# 109.184.177.90
-# 109.184.180.192
