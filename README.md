@@ -1,5 +1,5 @@
 # Parser_bot_tg_avito_ui
-Enter point: bot.py \n
+Enter point: bot.py <br>
 Technologies:
 
 ```
