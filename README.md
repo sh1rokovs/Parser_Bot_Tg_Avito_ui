@@ -5,3 +5,4 @@ Technologies:
 ```
 Parsing: requests, bs4; Tg_Bot: aiogram, asyncio; bd: sqlite + json.
 ```
+/
